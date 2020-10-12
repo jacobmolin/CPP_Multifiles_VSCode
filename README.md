@@ -1,4 +1,4 @@
-# VS Code C++ Multifiles
+# VS Code C++ Multifiles Template
 ### A directory template for running multifiles C++ in VS Code on macOS. By Jacob Molin.
 
 #### - Open main folder ("cpp_multifiles_template") in VS Code. The main folder can be renamed.
