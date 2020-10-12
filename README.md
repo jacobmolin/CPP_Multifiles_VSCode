@@ -1,19 +1,16 @@
 ## VS C++de Multifiles
 
-### - A directory template for running multifiles C++ in VS Code on macOS.
-
-### By Jacob Molin
+### - A directory template for running multifiles C++ in VS Code on macOS. By Jacob Molin
 
 
-#### Open main folder ("cpp_multifiles_template") in VSCode.
-#### The main folder can be renamed.
+#### Open main folder ("cpp_multifiles_template") in VS Code. The main folder can be renamed.
 
 
 #### Structure
 
-##### 	bin: executables
-##### 	include: .hpp files
-##### 	src: .cpp files
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bin: executables
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;include: .hpp files
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;src: .cpp files\n
 
 
 #### How to build and run program
